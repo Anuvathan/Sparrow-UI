@@ -5,4 +5,3 @@ streamlit_nested_layout
 streamlit-javascript
 natsort
 streamlit-aggrid
-install --upgrade pip
