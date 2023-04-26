@@ -1,0 +1,763 @@
+{
+  "meta": {
+    "version": "v1.0",
+    "split": "-",
+    "image_id": 223,
+    "image_size": {
+      "width": 2481,
+      "height": 3508
+    }
+  },
+  "words": [
+    {
+      "rect": {
+        "x1": 200,
+        "y1": 109,
+        "x2": 407,
+        "y2": 162
+      },
+      "value": "Invoice",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 416,
+        "y1": 115,
+        "x2": 514,
+        "y2": 169
+      },
+      "value": "no:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 528,
+        "y1": 115,
+        "x2": 807,
+        "y2": 162
+      },
+      "value": "19471831",
+      "label": "header:invoice_no"
+    },
+    {
+      "rect": {
+        "x1": 195,
+        "y1": 209,
+        "x2": 316,
+        "y2": 265
+      },
+      "value": "Date",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 316,
+        "y1": 209,
+        "x2": 381,
+        "y2": 269
+      },
+      "value": "of",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 381,
+        "y1": 211,
+        "x2": 520,
+        "y2": 265
+      },
+      "value": "issue:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1204,
+        "y1": 215,
+        "x2": 1471,
+        "y2": 265
+      },
+      "value": "04/09/2014",
+      "label": "header:invoice_date"
+    },
+    {
+      "rect": {
+        "x1": 200,
+        "y1": 669,
+        "x2": 381,
+        "y2": 720
+      },
+      "value": "Seller:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 209,
+        "y1": 756,
+        "x2": 805,
+        "y2": 918
+      },
+      "value": "Palmer Ltd 9790 Bauer Hills Apt. 146 South Patriciaton, SD 32497",
+      "label": "header:seller"
+    },
+    {
+      "rect": {
+        "x1": 1247,
+        "y1": 756,
+        "x2": 1734,
+        "y2": 918
+      },
+      "value": "Rios, Oneill and Rowe 3571 Tina Trafficway Buckleyland, LA 97688",
+      "label": "header:client"
+    },
+    {
+      "rect": {
+        "x1": 205,
+        "y1": 972,
+        "x2": 296,
+        "y2": 1025
+      },
+      "value": "Tax",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 296,
+        "y1": 969,
+        "x2": 359,
+        "y2": 1025
+      },
+      "value": "Id:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 366,
+        "y1": 972,
+        "x2": 639,
+        "y2": 1021
+      },
+      "value": "924-71-1106",
+      "label": "header:seller_tax_id"
+    },
+    {
+      "rect": {
+        "x1": 1406,
+        "y1": 972,
+        "x2": 1680,
+        "y2": 1021
+      },
+      "value": "922-72-5979",
+      "label": "header:client_tax_id"
+    },
+    {
+      "rect": {
+        "x1": 210,
+        "y1": 1030,
+        "x2": 331,
+        "y2": 1074
+      },
+      "value": "IBAN:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 341,
+        "y1": 1030,
+        "x2": 942,
+        "y2": 1069
+      },
+      "value": "GB05YUTG50853913677557",
+      "label": "header:iban"
+    },
+    {
+      "rect": {
+        "x1": 200,
+        "y1": 1140,
+        "x2": 376,
+        "y2": 1194
+      },
+      "value": "ITEMS",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 231,
+        "y1": 1264,
+        "x2": 311,
+        "y2": 1316
+      },
+      "value": "No.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 355,
+        "y1": 1267,
+        "x2": 583,
+        "y2": 1316
+      },
+      "value": "Description",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 249,
+        "y1": 1398,
+        "x2": 294,
+        "y2": 1443
+      },
+      "value": "1.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 357,
+        "y1": 1398,
+        "x2": 853,
+        "y2": 1528
+      },
+      "value": "15\"x15\" White Decorative Coffee Table Top Lapis Lazuli Marquetery Patio D\u00e9cor",
+      "label": "items_row1:item_desc"
+    },
+    {
+      "rect": {
+        "x1": 1007,
+        "y1": 1394,
+        "x2": 1093,
+        "y2": 1446
+      },
+      "value": "3,00",
+      "label": "items_row1:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1402,
+        "y1": 1401,
+        "x2": 1528,
+        "y2": 1439
+      },
+      "value": "645,77",
+      "label": "items_row1:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 1625,
+        "y1": 1398,
+        "x2": 1780,
+        "y2": 1439
+      },
+      "value": "1937,31",
+      "label": "items_row1:item_net_worth"
+    },
+    {
+      "rect": {
+        "x1": 1918,
+        "y1": 1398,
+        "x2": 2002,
+        "y2": 1439
+      },
+      "value": "10%",
+      "label": "items_row1:item_vat"
+    },
+    {
+      "rect": {
+        "x1": 2095,
+        "y1": 1394,
+        "x2": 2254,
+        "y2": 1443
+      },
+      "value": "2 131,04",
+      "label": "items_row1:item_gross_worth"
+    },
+    {
+      "rect": {
+        "x1": 249,
+        "y1": 1570,
+        "x2": 296,
+        "y2": 1615
+      },
+      "value": "2.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 355,
+        "y1": 1564,
+        "x2": 866,
+        "y2": 1696
+      },
+      "value": "4'x2' Marble Dining Table Top Pietra Dura Birds Inlay Art Furniture Decors B444",
+      "label": "items_row2:item_desc"
+    },
+    {
+      "rect": {
+        "x1": 1007,
+        "y1": 1564,
+        "x2": 1093,
+        "y2": 1616
+      },
+      "value": "5,00",
+      "label": "items_row2:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1364,
+        "y1": 1558,
+        "x2": 1533,
+        "y2": 1621
+      },
+      "value": "1840,10",
+      "label": "items_row2:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 1619,
+        "y1": 1564,
+        "x2": 1785,
+        "y2": 1616
+      },
+      "value": "9200,50",
+      "label": "items_row2:item_net_worth"
+    },
+    {
+      "rect": {
+        "x1": 1918,
+        "y1": 1570,
+        "x2": 2002,
+        "y2": 1611
+      },
+      "value": "10%",
+      "label": "items_row2:item_vat"
+    },
+    {
+      "rect": {
+        "x1": 2075,
+        "y1": 1570,
+        "x2": 2254,
+        "y2": 1615
+      },
+      "value": "10 120,55",
+      "label": "items_row2:item_gross_worth"
+    },
+    {
+      "rect": {
+        "x1": 249,
+        "y1": 1740,
+        "x2": 294,
+        "y2": 1788
+      },
+      "value": "3.",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 352,
+        "y1": 1743,
+        "x2": 892,
+        "y2": 1869
+      },
+      "value": "60 Inches Marble Dinning Table Top Hand Inlaid Garden Table with Gemstones",
+      "label": "items_row3:item_desc"
+    },
+    {
+      "rect": {
+        "x1": 1239,
+        "y1": 665,
+        "x2": 1426,
+        "y2": 716
+      },
+      "value": "Client:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1246,
+        "y1": 969,
+        "x2": 1336,
+        "y2": 1025
+      },
+      "value": "Tax",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1334,
+        "y1": 969,
+        "x2": 1397,
+        "y2": 1025
+      },
+      "value": "Id:",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1016,
+        "y1": 1264,
+        "x2": 1093,
+        "y2": 1319
+      },
+      "value": "Qty",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1166,
+        "y1": 1267,
+        "x2": 1235,
+        "y2": 1309
+      },
+      "value": "UM",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1155,
+        "y1": 1398,
+        "x2": 1242,
+        "y2": 1439
+      },
+      "value": "each",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1154,
+        "y1": 1564,
+        "x2": 1246,
+        "y2": 1616
+      },
+      "value": "each",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1007,
+        "y1": 1740,
+        "x2": 1095,
+        "y2": 1792
+      },
+      "value": "5,00",
+      "label": "items_row3:item_qty"
+    },
+    {
+      "rect": {
+        "x1": 1366,
+        "y1": 1733,
+        "x2": 1534,
+        "y2": 1797
+      },
+      "value": "5908,00",
+      "label": "items_row3:item_net_price"
+    },
+    {
+      "rect": {
+        "x1": 1602,
+        "y1": 1743,
+        "x2": 1781,
+        "y2": 1785
+      },
+      "value": "29540,00",
+      "label": "items_row3:item_net_worth"
+    },
+    {
+      "rect": {
+        "x1": 1918,
+        "y1": 1743,
+        "x2": 2002,
+        "y2": 1785
+      },
+      "value": "10%",
+      "label": "items_row3:item_vat"
+    },
+    {
+      "rect": {
+        "x1": 1155,
+        "y1": 1743,
+        "x2": 1246,
+        "y2": 1785
+      },
+      "value": "each",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1344,
+        "y1": 1264,
+        "x2": 1426,
+        "y2": 1316
+      },
+      "value": "Net",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1426,
+        "y1": 1271,
+        "x2": 1529,
+        "y2": 1312
+      },
+      "value": "price",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1586,
+        "y1": 1267,
+        "x2": 1665,
+        "y2": 1309
+      },
+      "value": "Net",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1665,
+        "y1": 1271,
+        "x2": 1781,
+        "y2": 1309
+      },
+      "value": "worth",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1842,
+        "y1": 1267,
+        "x2": 1928,
+        "y2": 1309
+      },
+      "value": "VAT",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1927,
+        "y1": 1264,
+        "x2": 2002,
+        "y2": 1319
+      },
+      "value": "[%]",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2139,
+        "y1": 1267,
+        "x2": 2254,
+        "y2": 1309
+      },
+      "value": "Gross",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2135,
+        "y1": 1308,
+        "x2": 2254,
+        "y2": 1351
+      },
+      "value": "worth",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2075,
+        "y1": 1743,
+        "x2": 2254,
+        "y2": 1785
+      },
+      "value": "32 494,00",
+      "label": "items_row3:item_gross_worth"
+    },
+    {
+      "rect": {
+        "x1": 200,
+        "y1": 1965,
+        "x2": 494,
+        "y2": 2015
+      },
+      "value": "SUMMARY",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 958,
+        "y1": 2094,
+        "x2": 1047,
+        "y2": 2136
+      },
+      "value": "VAT",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1043,
+        "y1": 2089,
+        "x2": 1122,
+        "y2": 2141
+      },
+      "value": "[%]",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1000,
+        "y1": 2182,
+        "x2": 1080,
+        "y2": 2224
+      },
+      "value": "10%",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1388,
+        "y1": 2085,
+        "x2": 1474,
+        "y2": 2137
+      },
+      "value": "Net",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1469,
+        "y1": 2094,
+        "x2": 1588,
+        "y2": 2136
+      },
+      "value": "worth",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1406,
+        "y1": 2182,
+        "x2": 1465,
+        "y2": 2224
+      },
+      "value": "40",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1451,
+        "y1": 2182,
+        "x2": 1588,
+        "y2": 2224
+      },
+      "value": "677,81",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1354,
+        "y1": 2267,
+        "x2": 1588,
+        "y2": 2316
+      },
+      "value": "$ 40 677,81",
+      "label": "summary:total_net_worth"
+    },
+    {
+      "rect": {
+        "x1": 1780,
+        "y1": 2094,
+        "x2": 1868,
+        "y2": 2136
+      },
+      "value": "VAT",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1705,
+        "y1": 2177,
+        "x2": 1743,
+        "y2": 2226
+      },
+      "value": "4",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1726,
+        "y1": 2182,
+        "x2": 1867,
+        "y2": 2224
+      },
+      "value": "067,78",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2025,
+        "y1": 2094,
+        "x2": 2140,
+        "y2": 2136
+      },
+      "value": "Gross",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2140,
+        "y1": 2094,
+        "x2": 2261,
+        "y2": 2136
+      },
+      "value": "worth",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2080,
+        "y1": 2177,
+        "x2": 2137,
+        "y2": 2224
+      },
+      "value": "44",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 2124,
+        "y1": 2182,
+        "x2": 2259,
+        "y2": 2224
+      },
+      "value": "745,59",
+      "label": ""
+    },
+    {
+      "rect": {
+        "x1": 1651,
+        "y1": 2261,
+        "x2": 1868,
+        "y2": 2323
+      },
+      "value": "$4067,78",
+      "label": "summary:total_vat"
+    },
+    {
+      "rect": {
+        "x1": 2028,
+        "y1": 2267,
+        "x2": 2259,
+        "y2": 2316
+      },
+      "value": "$ 44 745,59",
+      "label": "summary:total_gross_worth"
+    },
+    {
+      "rect": {
+        "x1": 747,
+        "y1": 2271,
+        "x2": 856,
+        "y2": 2313
+      },
+      "value": "Total",
+      "label": ""
+    }
+  ]
+}
